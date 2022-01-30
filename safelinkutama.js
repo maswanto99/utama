@@ -131,9 +131,9 @@ function auto_safeconvert() {
             var encryptedUrl = Base64.encode(a_to_vi);
 			var x = Math.floor((Math.random()*3) + 1);
             var xxx = null;
-            if (x == "1") {xxx = "p/4-effective-marketing-strategies.html";}
-            if (x == "2") {xxx = "p/understand-more-about-online-marketing.html";}
-            if (x == "3") {xxx = "p/the-evolution-of-internet-marketing.html";}
+            if (x == "1") {xxx = "/2018/09/practice-environmental-qwareness-to-our.html";}
+            if (x == "2") {xxx = "/2018/09/10-tips-for-start-small-business-startup.html";}
+            if (x == "3") {xxx = "/2018/09/the-way-to-start-business-at-home.html";}
             a_to_ve[i].href = "https://apkdl.liputantv.com/" + xxx + "?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
